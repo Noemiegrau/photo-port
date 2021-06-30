@@ -6,6 +6,7 @@
 * [Usage](#Usage)
 * [Installation](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
+* [Link URL to deployed App](#link-URL-to-deployed-App)
 
 ## **_Description of the project_**
 
@@ -34,3 +35,6 @@ Here are some guidelines for installing the project on your local machine in ord
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/photo-port
+
+## **_Link URL to deployed App_**
+https://noemiegrau.github.io/photo-port/
