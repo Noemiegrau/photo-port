@@ -28,9 +28,9 @@ Here are some guidelines for installing the project on your local machine in ord
 
 2. Then, make sure that your repo includes a package.json with the required dependencies. You can create one by running ```npm init``` in your command line, and ```npm install``` to install the dependencies.
 
-3. Run ```node server.js```, ```node server``` or ```npm start``` in your terminal to launch the application.
+3. Run ```npm start``` in your terminal to launch the application.
 
-4. Enjoy and don't hesitate to contribute!
+4. Enjoy and don't hesitate to contribute! 🙂
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Noemiegrau/photo-port
